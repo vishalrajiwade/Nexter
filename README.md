@@ -1,2 +1,3 @@
 # Nexter
-Real Estate website
+Real Estate website built in HTML, CSS , Javascript.
+
